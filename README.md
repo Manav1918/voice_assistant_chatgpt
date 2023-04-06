@@ -5,8 +5,8 @@ Install below dependencies to use this piece of code.
 2. pyttsx3
 3. speech-recognition
 
-Subscribe to our youtube channel to get more such interesting projects https://youtube.com/@cid_official?sub_confirmation=1
+Subscribe to our youtube channel to get more such interesting projects https://www.youtube.com/@cid_official?sub_confirmation=1
 
-Ask quesry at https://m.me/cideduhub
+Ask quesry at https://www.m.me/cideduhub
 
 Watch this code tutorial at: https://youtu.be/ft5hQSpPuik

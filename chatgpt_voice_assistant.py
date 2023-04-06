@@ -1,7 +1,8 @@
+#Say thanks if you like this program
 import openai
 import speech_recognition as sr
 import os
-api_key = os.environ.get("OPENAI_API_KEY")
+api_key = os.environ.get("OPENAI_API_KEY") # save your open ai api key in environment variables where "OPENAI_API_KEY" will be name and value is your "API KEY"
 # Set the OpenAI API key
 openai.api_key = api_key
 
